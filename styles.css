@@ -1,0 +1,22 @@
+.body{
+    background-color: rgb(245, 246, 234); 
+    font-family: Helvetica, "Times New Roman", sans-serif; 
+}
+.title{
+    text-align: center;
+    font-size: 60px;
+}
+.list.front{
+    list-style-type: none;
+    margin-top: 100px;
+    text-align:center;
+    margin-right: 20px;
+}
+.button{
+    background-color: rgb(213, 66, 21);
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 20px;
+
+}
