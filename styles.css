@@ -18,5 +18,15 @@
     margin-right: 20px;
     text-align: center;
     font-size: 20px;
-
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.description{
+    font-size: 20px;
+    margin: 15px;
+}
+.title-secondary{
+    margin: 20px;
 }
